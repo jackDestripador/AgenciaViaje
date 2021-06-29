@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Proyecto con Node.js",
   "engines": {
-    "npm":"6.x"
+    "npm": "6.x"
   },
   "main": "index.js",
   "scripts": {
