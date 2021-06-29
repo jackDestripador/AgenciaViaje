@@ -12,8 +12,8 @@ db.authenticate()
 
 //Definir puerto
 //variables de entorno process.env.PORT
-var host = process.env.HOST || "0.0.0.0";
-var port = process.env.PORT || 4000;
+let host = process.env.HOST || "0.0.0.0";
+let port = process.env.PORT || 8080;
 
 //HABILITAR PUG
 app.set("view engine", "pug");
